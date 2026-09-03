@@ -1,0 +1,6 @@
+{
+  "name": "The Detail Lab",
+  "description": "Premium car and bike detailing studio showcase showcasing elite ceramic coatings, PPF installations, custom detailing, and pristine washes in Ahmedabad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
